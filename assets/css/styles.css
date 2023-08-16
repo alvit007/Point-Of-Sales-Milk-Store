@@ -1,0 +1,18 @@
+#nav-logo {
+  width: 6rem;
+}
+
+#greeting-msg {
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.logout-btn {
+  color: #fff;
+  text-decoration: none;
+}
+
+.namabrg {
+  opacity: 75%;
+}
